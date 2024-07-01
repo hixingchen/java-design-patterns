@@ -1,4 +1,4 @@
-package 工厂方法模式;
+package 工厂方法模式.示例一;
 
 public class Main {
     public static void main(String[] args) {
