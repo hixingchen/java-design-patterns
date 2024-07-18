@@ -1,4 +1,4 @@
-package factoryPattern.exampleTwo;
+package factoryMethodPattern;
 
 public class DatabaseLoggerFactory implements LoggerFactory{
     @Override

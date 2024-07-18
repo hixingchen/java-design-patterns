@@ -1,6 +1,6 @@
 package abstractFactoryPattern;
 
-public class Client {
+public class Main {
     public static void main(String[] args) {
         GUIFactory windowGUIFactory = new WindowsGUIFactory();
         Button windowButton = windowGUIFactory.createButton();
