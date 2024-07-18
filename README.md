@@ -11,4 +11,4 @@ java-23种设计模式
 * [建造者模式](src/builderPattern)
 
 # 结构型
-
+* [适配器模式](src/adapterPattern)
