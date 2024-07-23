@@ -1,4 +1,4 @@
-package singletonPattern.lazySingleton;
+package singleton.lazy;
 
 public class Logger {
     private static Logger instance;

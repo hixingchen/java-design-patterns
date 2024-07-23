@@ -1,4 +1,4 @@
-package singletonPattern.eagerSingleton;
+package singleton.eager;
 
 public class Logger {
     private Logger(){}

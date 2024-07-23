@@ -1,4 +1,4 @@
-package singletonPattern.lazySingleton;
+package singleton.eager;
 
 public class Main {
     public static void main(String[] args) {
