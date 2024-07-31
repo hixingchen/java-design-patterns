@@ -5,7 +5,10 @@ public class Logger {
 
     private Logger(){};
 
-    //懒汉单例多线程可能有问题，所以使用synchronized保证安全
+    /**
+     * 懒汉单例多线程可能有问题，所以使用synchronized保证安全
+     * @return Logger
+     */
     public static synchronized Logger getInstance(){
         if (instance == null){
             instance = new Logger();
