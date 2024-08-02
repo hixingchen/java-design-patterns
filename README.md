@@ -4,7 +4,7 @@ java-23种设计模式
 
 # 创建型
 
-* [工厂方法模式](src/factoryMethod)
+* [工厂方法模式](src/factoryMethod){:target="_blank"}
 * [抽象工厂模式](src/abstractFactory)
 
 * [原型模式](src/prototype)
