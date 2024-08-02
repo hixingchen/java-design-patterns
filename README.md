@@ -18,3 +18,4 @@ java-23种设计模式
 * [外观模式](src/facade)
 * [享元模式](src/flyweight)
 * [代理模式](src/proxy)
+* [解释器模式](src/interpreter)
