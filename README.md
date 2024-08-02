@@ -6,7 +6,6 @@ java-23种设计模式
 
 * [工厂方法模式](src/factoryMethod)
 * [抽象工厂模式](src/abstractFactory)
-
 * [原型模式](src/prototype)
 * [单例模式](src/singleton)
 * [建造者模式](src/builder)
