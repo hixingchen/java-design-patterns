@@ -16,5 +16,4 @@ java-23种设计模式
 * [桥接模式](src/bridge)
 * [组合模式](src/composite)
 * [装饰模式](src/decorator)
-
-
+* [外观模式](src/facade)
