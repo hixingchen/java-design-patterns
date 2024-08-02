@@ -14,6 +14,6 @@ java-23种设计模式
 # 结构型
 * [适配器模式](src/adapter)
 * [桥接模式](src/bridge)
-
+* [组合模式](src/composite)
 
 
