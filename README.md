@@ -17,3 +17,4 @@ java-23种设计模式
 * [装饰模式](src/decorator)
 * [外观模式](src/facade)
 * [享元模式](src/flyweight)
+* [代理模式](src/proxy)
