@@ -1,7 +1,6 @@
 # java-design-patterns
 java-23种设计模式
-[参考文章](https://zhuanlan.zhihu.com/p/651451595){:target="_blank"}
-<a href="https://zhuanlan.zhihu.com/p/651451595" target="_blank">参考文章</a>
+[参考文章](https://zhuanlan.zhihu.com/p/651451595)
 
 # 创建型
 
