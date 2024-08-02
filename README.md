@@ -17,3 +17,4 @@ java-23种设计模式
 * [组合模式](src/composite)
 * [装饰模式](src/decorator)
 * [外观模式](src/facade)
+* [享元模式](src/flyweight)
