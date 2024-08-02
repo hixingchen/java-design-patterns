@@ -21,3 +21,4 @@ java-23种设计模式
   
 # 行为型
 * [解释器模式](src/interpreter)
+* [模板方法模式](src/templateMethod)
