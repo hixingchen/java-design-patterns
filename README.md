@@ -1,10 +1,10 @@
 # java-design-patterns
 java-23种设计模式
-[参考文章](https://zhuanlan.zhihu.com/p/651451595)
+[参考文章](https://zhuanlan.zhihu.com/p/651451595){:target="_blank"}
 
 # 创建型
 
-* [工厂方法模式](src/factoryMethod){:target="_blank"}
+* [工厂方法模式](src/factoryMethod)
 * [抽象工厂模式](src/abstractFactory)
 
 * [原型模式](src/prototype)
