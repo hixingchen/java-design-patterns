@@ -23,3 +23,4 @@ java-23种设计模式
 * [解释器模式](src/interpreter)
 * [模板方法模式](src/templateMethod)
 * [责任链模式](src/chainOfResponsibility)
+* [命令模式](src/command)
