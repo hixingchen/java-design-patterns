@@ -24,3 +24,4 @@ java-23种设计模式
 * [模板方法模式](src/templateMethod)
 * [责任链模式](src/chainOfResponsibility)
 * [命令模式](src/command)
+* [迭代器模式](src/iterator)
