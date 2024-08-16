@@ -25,3 +25,4 @@ java-23种设计模式
 * [责任链模式](src/chainOfResponsibility)
 * [命令模式](src/command)
 * [迭代器模式](src/iterator)
+* [中介者模式](src/mediator)
