@@ -26,3 +26,4 @@ java-23种设计模式
 * [命令模式](src/command)
 * [迭代器模式](src/iterator)
 * [中介者模式](src/mediator)
+* [备忘录模式](src/memento)
