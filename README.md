@@ -28,3 +28,4 @@ java-23种设计模式
 * [中介者模式](src/mediator)
 * [备忘录模式](src/memento)
 * [观察者模式](src/observer)
+* [状态模式](src/state)
