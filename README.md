@@ -29,3 +29,4 @@ java-23种设计模式
 * [备忘录模式](src/memento)
 * [观察者模式](src/observer)
 * [状态模式](src/state)
+* [策略模式](src/strategy)
