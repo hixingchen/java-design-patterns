@@ -30,3 +30,4 @@ java-23种设计模式
 * [观察者模式](src/observer)
 * [状态模式](src/state)
 * [策略模式](src/strategy)
+* [访问者模式](src/visitor)
